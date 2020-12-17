@@ -4,9 +4,11 @@ _Im Rahmen des Projektes soll ein einfaches PWM Modul entwickelt werden, mit dem
 
 ## Systemanforderung
 
-*Systemworkbench
-*STM32CubeMX
-\*STM32CubeIDE
+1.  Option 1
+    - Systemworkbench (Eclipse)
+    - STM32CubeMX
+2.  Option 2
+    - STM32CubeIDE
 
 ## Wechselrichter Libary
 
