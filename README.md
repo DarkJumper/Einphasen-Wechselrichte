@@ -35,10 +35,8 @@ Das setzten des Prescaler für das PWM signal wird durch die funktion -> `NEW_Pr
 
 Ausgabe des Signales mit einer Testschaltung sieht wie folgt aus.
 
-### Ausgabe Sinus ohne Negativ Halbwelle
+1. Ausgabe Sinus ohne Negativ Halbwelle
+   ![plot](./Image/Ausgang_PWM_ohne_Pause.png)
 
-![plot](./Image/Ausgang_PWM_ohne_Pause.png)
-
-### Ausgabe Sinus
-
-![plot](./Image/Überlagerung_Sinus.png)
+2. Ausgabe Sinus
+   ![plot](./Image/Überlagerung_Sinus.png)
